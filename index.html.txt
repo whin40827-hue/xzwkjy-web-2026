@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的个人主页</title>
+    <!-- 下面这行就是设置你的自定义商品图标 -->
+    <link rel="icon" href="logo.png" type="image/png">
+</head>
+<body>
+    <h1>欢迎来到我的频道</h1>
+    <p>这是我的商品/服务展示</p>
+</body>
+</html>
